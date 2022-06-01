@@ -33,6 +33,7 @@ This project involved the concepts of Object Oriented and Event Driven Programmi
 2. There are three kind of Orcs- Red, Green and Boss. The Hero must kill the Boss in order to win. The Orcs can also be killed by falling from Platforms or by weapons.
 3. There are additional obstacles like Bombs as well.
 4. The game can be saved and previous games can be loaded as well.
+5. Thr gamw can also be resumed, restarted and paused at any point.
 
 <hr>
 

@@ -9,6 +9,7 @@ This project involved the concepts of Object Oriented and Event Driven Programmi
 ## How to run:
 1) Clone this repository.
 2) Configure JavaFX libraries in your code editor.
+3) Run the project
 <hr>
 
 ## Some Snapshots of the game
